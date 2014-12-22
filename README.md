@@ -36,28 +36,33 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-An Æthiopian historie written in Greeke by Heliodorus: very vvittie and pleasaunt, Englished by Thom
+
+1. TO THE RIGHT HOnorable Edward Deuiere, Lord Boulbecke, Earle of Oxenford, Lord greate Chamberlayne of Englande: Thomas Vnderdowne, wiſheth longe and bleſſed life, with encreaſe of Honour.
+The Contentes of the firſte Booke.
+In it is declared the takinge of Theagenes and Cariclia, by Thiam
 #####Body#####
 
-1. The firſte Booke.
+1. The Aethiopian Hiſtory of Heliodorus.
 
-1. The Seconde Booke.
+    _ The firſte Booke.
 
-1. The Thirde Booke.
+    _ The Seconde Booke.
 
-1. The Fourthe Booke.
+    _ The Thirde Booke.
 
-1. The Fifthe Booke.
+    _ The Fourthe Booke.
 
-1. The Sixte Booke.
+    _ The Fifthe Booke.
 
-1. The Seuenth Booke.
+    _ The Sixte Booke.
 
-1. The Eight Booke.
+    _ The Seuenth Booke.
 
-1. The Ninthe Booke.
+    _ The Eight Booke.
 
-1. The Tenth Booke.
+    _ The Ninthe Booke.
+
+    _ The Tenth Booke.
 
 **Types of content**
 
